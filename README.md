@@ -135,6 +135,6 @@ apague taskmanager.db e rode novamente; ou use migrações (dotnet ef
 - Nicolas Nogueira Boni - RM551965
 - Enzo Sartorelli - RM96618
 - Eduardo Nistal - RM94524
-
+- Felipe Bressane - RM97688
 -------------------------------------------------------------------------------
 📄 Licença Projeto para o CP.
